@@ -13,6 +13,8 @@ ga_nrg_estimate.cpp contains the code
 You need galib in order to compile this code. Once you have
 successfully compiled galib simply use the next command (assuming you have galib
 compiled under "ga" subdirectory)
+
 	 g++ -I. -Wall ga_nrg_estimate.cpp ga/libga.a -o exename
+
 and run it.
 
