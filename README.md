@@ -12,7 +12,7 @@ tomorrow's estimate temperature.
 
 You need [galib](http://lancet.mit.edu/ga/) in order to compile this code. Once you have
 successfully compiled galib simply use the next command (assuming you have galib
-compiled under **ga** subdirectory)
+compiled under *ga* subdirectory)
 
 	 g++ -I. -Wall ga_nrg_estimate.cpp ga/libga.a -o exename
 
