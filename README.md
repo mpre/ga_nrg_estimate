@@ -18,3 +18,4 @@ compiled under **ga** subdirectory)
 
 and run it.
 
+Root mean square error: 1900 ÷ 20500
